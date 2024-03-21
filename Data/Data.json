@@ -8,9 +8,9 @@
     {
       "name": "Molecule Man",
       "price": 24.05,
-      "quantity":  4,
+      "quantity": 4,
       "platform": "ps4",
-      "genre": ["action", "first person shooter", "adventure"]
+      "genre": [ "action", "first person shooter", "adventure" ]
     },
     {
       "name": "Madame Uppercut",
